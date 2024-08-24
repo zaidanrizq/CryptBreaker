@@ -2,7 +2,7 @@
 
 CryptBreaker is a hash password brute-forcing tool created using Python, designed to efficiently break hash passwords through distributed computing. The project leverages a distributed system architecture utilizing RabbitMQ to implement the producer-consumer model, allowing tasks to be spread across multiple nodes for faster and more scalable password cracking.
 
-This project is developed as a capstone project for the subject "Sistem Terdistribusi dan Paralel" (Distributed and Parallel Systems) in the fifth semester of the Logistics Engineering program.
+This project is developed as a capstone project for the subject "Sistem Terdistribusi dan Paralel" (Distributed and Parallel Systems) in the fifth semester of the Informatics program.
 
 ## Features
 
